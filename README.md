@@ -1,2 +1,0 @@
-# instaspin
-instaspin site
